@@ -59,7 +59,7 @@ It would definitely be a nice tool to get feedbacks on our CV regarding a specif
 
 ### 4 - OpenAI Resources used
 
-I also wanted to show the resources used by the program by checking the storage data availabel on OpenAI API website.  
+I also wanted to show the resources used by the program by checking the storage data available on OpenAI API website.  
 
 ![APIcost](./assets/API_use_cost.png)
 
